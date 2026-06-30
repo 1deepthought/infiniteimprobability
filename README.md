@@ -1,2 +1,2 @@
-# askwisdom_ish
-experiments with askwisdom
+# infinite_improbability
+experiments with 42
